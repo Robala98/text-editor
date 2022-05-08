@@ -5,13 +5,6 @@
 
 * Note taking application that can be used online or offline.
 
-
-## Table of Contents
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-
-
 ## Installation
 
 Just need to click the link, no installation needed.
